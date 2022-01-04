@@ -19,7 +19,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "ConChem Logistics"
-description: "It really is the best."
+description: "Your Logistics Experts"
 baseurl: "/"
 url: "https://jaydurant.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
