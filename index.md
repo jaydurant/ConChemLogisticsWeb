@@ -1,6 +1,6 @@
 ---
 title: "Layout: Hero Image"
+layout: home
 image:
-    path: /images/logo.png
-    thumbnail:
+    path: /images/semi-truck-traveling.jpg
 ---
