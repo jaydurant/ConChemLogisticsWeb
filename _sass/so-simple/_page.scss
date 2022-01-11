@@ -40,18 +40,16 @@
 
 .page-image-caption {
   position: absolute;
-  bottom: 0;
-  right: 0;
+  top: 20px;
   margin: 0 auto;
   padding: 0.25em 0.5em;
   color: #fff;
   font-size: 0.75rem;
-  background: #000;
-  text-align: right;
+  text-align: center;
   z-index: 5;
-  opacity: 0.5;
-  border-radius: 4px 0 0 0;
-
+  font-size:50px;
+  font-weight:900;
+  width:100%;
   > * {
     margin: 0;
     padding: 0;
@@ -60,6 +58,21 @@
   a {
     color: #fff;
   }
+}
+
+.page-image-subcaption {
+  position: absolute;
+  top: 250px;
+  margin: 0 auto;
+  padding: 0.25em 0.5em;
+  color:white;
+  font-size: 0.75rem;
+  text-align: center;
+  z-index: 5;
+  font-size:20px;
+  font-weight:900;
+  width:100%;
+
 }
 
 .page-sidebar {
