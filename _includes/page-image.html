@@ -13,5 +13,8 @@
     {% if page.image.subcaption  %}
       <div class="page-image-subcaption">{{ page.image.subcaption | markdownify }}</div>
     {% endif %}
+    {% if page.image.button %}
+      <button>{{ page.image.button | markdownify }}</button>
+    {% endif %}
   </div>
 {% endif %}

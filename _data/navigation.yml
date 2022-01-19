@@ -3,11 +3,11 @@
 - title: Home
   url: /
 - title: About
-  url: /about/
+  url: "#about"
 - title: Carriers
-  url: /carriers
+  url: "#carriers"
 - title: Services
-  url: /services/
+  url: "#services"
 - title: Contact Us
-  url: /contact-us
+  url: "#contact"
 
