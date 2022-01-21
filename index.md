@@ -5,7 +5,7 @@ image:
     path: /images/TruckPic.jpg
     caption: Frieght Management Experts
     subcaption: Got Freight? We understand the complexities of local, national, and global supply chains and are skilled in freight management operations.
-    button: Call XXX-XXX-XXXX
+    button: Contact Us
 ---
 
 ## About Us: {#about}
@@ -25,6 +25,28 @@ So, if you’re thinking about getting a new freight broker. Look at what we can
 - Book your own loads or we can do it for you
 - LTL, FTL, Tank-Trucks Service
 - The ability to track FTL & Tank Trucks every 5-15 minutes!!!
+
+# Carriers: {#carriers}
+
+Are you a carrier looking to join our team? We strive to be the best in the industry and we need carriers.We have customers all over the United States in the Construction & Chemical Markets. We are looking for local, regional and national carriers with the following capabilities:
+
+1. Flatbed
+2. Step Deck
+3. Dry Van
+4. Conestoga
+5. Refrigerated
+6. Tank Trucks
+
+At ConChem Logistics we provide our carriers the following:
+
+1. Quick Pay
+2. Payment within 24 Hours
+3. Steady Work
+4. Easy Setup
+
+Click on the Link below to partner with us! It's fast and easy.
+
+[Partner Portal]()
 
 ## Services: {#services}
 
