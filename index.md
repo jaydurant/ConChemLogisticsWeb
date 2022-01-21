@@ -56,4 +56,4 @@ Our customer base includes manufacturers, contractors, installers in the Chemica
 
 ## Contact Us: {#contact}
 
-[customerservice@conchem.com](mailto:customerservice@conchem.com)
+[customerservice@conchemlogistics.com](mailto:customerservice@conchem.com)
