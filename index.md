@@ -44,9 +44,11 @@ At ConChem Logistics we provide our carriers the following:
 3. Steady Work
 4. Easy Setup
 
-Click on the Link below to partner with us! It's fast and easy.
+Click on the Links below to partner with us! It's fast and easy.
 
-[Partner Portal]()
+[Partner Portal](https://mycarrierpackets.com/4a204475-f96c-465d-b9b2-58f6c72d8064/Carrier/Intellivite)
+
+[Broker Carrier Agreement and Quickpay Form](OfficialBrokerCarrierAgreement&QuickPay.docx)
 
 ## Services: {#services}
 
