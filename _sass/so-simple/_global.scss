@@ -96,6 +96,37 @@
   z-index: 10;
 }
 
+.customer-btn{
+  transition-timing-function: ease-in;
+  transition-delay: 3s;
+  text-align: center;
+  margin-top:10px;
+
+  :hover{
+    background-color: rgb(27, 123, 201);
+    
+  }
+
+  button{
+    background-color:rgb(61, 168, 255);
+    color:white;
+  }
+
+  @include breakpoint($medium){
+    margin:0px;
+    top:10px;
+    right:5%;
+    position:absolute;
+  }
+
+  @include breakpoint($large){
+    margin:0px;
+    position:absolute;
+    top:10px;
+    right:15%;
+  }
+}
+
 .site-logo-img {
   width: $site-logo-width;
   height: $site-logo-height;
@@ -104,11 +135,13 @@
   @include breakpoint($medium) {
     width: 1.5 * $site-logo-width;
     height: 1.5 * $site-logo-height;
+    margin-bottom: 22px;
   }
 
   @include breakpoint($large) {
-    width: 2 * $site-logo-width;
-    height: 2 * $site-logo-height;
+    width: 1.5 * $site-logo-width;
+    height: 1.5 * $site-logo-height;
+    margin-bottom: 22px;
   }
 }
 
