@@ -131,6 +131,8 @@
   width: $site-logo-width;
   height: $site-logo-height;
   border: 5px solid;
+  position: relative;
+  right:-5px;
 
   @include breakpoint($medium) {
     width: 1.5 * $site-logo-width;
